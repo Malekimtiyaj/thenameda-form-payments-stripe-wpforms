@@ -1,0 +1,16 @@
+.thenfopa-stripe-details {
+	margin: 1em 0;
+	padding: 1em 1.25em;
+	border-left: 4px solid #635bff;
+	background: #f7f7ff;
+}
+
+.thenfopa-stripe-details ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.thenfopa-stripe-details li {
+	margin: 0.35em 0;
+}

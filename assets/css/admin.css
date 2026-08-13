@@ -1,0 +1,63 @@
+.thenfopa-settings .wpforms-panel-field {
+	max-width: 640px;
+}
+
+.thenfopa-settings__note {
+	max-width: 640px;
+	margin-top: 12px;
+}
+
+.thenfopa-box-data.form-table th {
+	width: 200px;
+}
+
+.thenfopa-box-data.form-table td {
+	word-break: break-word;
+}
+
+.thenfopa-subtable {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.thenfopa-subtable th,
+.thenfopa-subtable td {
+	padding: 4px 8px;
+	text-align: left;
+	vertical-align: top;
+	border-bottom: 1px solid #f0f0f1;
+}
+
+.thenfopa-code {
+	display: block;
+	max-height: 240px;
+	overflow: auto;
+	padding: 10px;
+	background: #f6f7f7;
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.thenfopa-refund-status {
+	margin-left: 10px;
+	font-weight: 600;
+}
+
+.thenfopa-refund-status.thenfopa-success {
+	color: #008a20;
+}
+
+.thenfopa-refund-status.thenfopa-error {
+	color: #d63638;
+}
+
+.thenfopa-refunded {
+	color: #008a20;
+	font-weight: 600;
+}
+
+.thenfopa-help ul {
+	margin: 0;
+	padding-left: 18px;
+	list-style: disc;
+}
